@@ -412,6 +412,13 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1c H3 {
+  color: #ffffff;
+}
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -480,13 +487,6 @@ h6,
 #menu-h .close-icon::before,
 #menu-h .close-icon::after {
   background-color: #606060;
-}
-#header3-1c .mbr-section-title,
-#header3-1c .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1c H3 {
-  color: #ffffff;
 }
 #header1-4f .mbr-section-title {
   color: #ffffff;
@@ -1160,16 +1160,32 @@ h6,
 #menu-h .close-icon::after {
   background-color: #606060;
 }
-#msg-box5-44 H3 {
+#msg-box5-2w H3 {
   font-family: 'Raleway', sans-serif;
-  font-size: 36px;
 }
-#msg-box5-45 H3 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 36px;
+#msg-box5-2w P {
+  font-size: 15px;
 }
-#msg-box5-4t H3 {
+#header3-22 .mbr-section-title,
+#header3-22 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-22 H3 {
   font-family: 'Raleway', sans-serif;
+}
+#features1-21 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-21 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#features1-21 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+  font-size: 15px;
+}
+#features1-21 .mbr-cards-col:nth-child(even) .card-text {
+  font-size: 15px;
 }
 
 
@@ -1245,30 +1261,14 @@ h6,
 #menu-h .close-icon::after {
   background-color: #606060;
 }
-#msg-box5-2w H3 {
+#msg-box5-44 H3 {
   font-family: 'Raleway', sans-serif;
+  font-size: 36px;
 }
-#msg-box5-2w P {
-  font-size: 15px;
-}
-#header3-22 .mbr-section-title,
-#header3-22 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-22 H3 {
+#msg-box5-45 H3 {
   font-family: 'Raleway', sans-serif;
+  font-size: 36px;
 }
-#features1-21 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #ffffff;
-}
-#features1-21 .mbr-cards-col:nth-child(odd) .card-title {
-  color: #000000;
+#msg-box5-4t H3 {
   font-family: 'Raleway', sans-serif;
-}
-#features1-21 .mbr-cards-col:nth-child(odd) .card-text {
-  color: #000000;
-  font-size: 15px;
-}
-#features1-21 .mbr-cards-col:nth-child(even) .card-text {
-  font-size: 15px;
 }
