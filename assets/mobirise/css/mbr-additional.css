@@ -1017,10 +1017,6 @@ h6,
 #menu-j .close-icon::after {
   background-color: #606060;
 }
-#msg-box5-46 H3 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 36px;
-}
 #msg-box5-44 H3 {
   font-family: 'Raleway', sans-serif;
   font-size: 36px;
@@ -1028,6 +1024,9 @@ h6,
 #msg-box5-45 H3 {
   font-family: 'Raleway', sans-serif;
   font-size: 36px;
+}
+#msg-box5-4t H3 {
+  font-family: 'Raleway', sans-serif;
 }
 
 
